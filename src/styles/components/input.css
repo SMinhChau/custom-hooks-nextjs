@@ -1,0 +1,7 @@
+.form-label {
+  @apply container w-full text-inherit text-base;
+}
+
+.form-input {
+  @apply container w-full h-12 px-6 border-inherit  hover:border-blue-400  focus:border-blue-400  !important;
+}

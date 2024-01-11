@@ -1,0 +1,8 @@
+.btn {
+  padding: theme("spacing.4") theme("spacing.2");
+  background-color: red;
+}
+
+.btn-submit {
+  @apply w-full flex items-center justify-center bg-color-submit text-white;
+}
